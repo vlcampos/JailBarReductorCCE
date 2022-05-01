@@ -379,7 +379,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "../../../FreeRouting/VideoModCCE.dsn",
+      "specctra_dsn": "../../FreeRouting/VideoModCCE.dsn",
       "step": "",
       "vrml": ""
     },
